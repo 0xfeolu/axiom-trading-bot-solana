@@ -2,9 +2,11 @@
 
 Axiom trading bots is api information about axiom.trade and using them to copy trade on raydium and pumpfun
 
+
 ## Contract
 
-If you wanna built more speed and profitable trading tools, contact here: [Telegram](https://t.me/vicckr) | [Twitter](https://x.com/divicode)
+If you wanna built more speed and profitable trading tools, contact here: [Telegram](https://t.me/vicckr) | [Twitter](https://x.com/divi-code)
+
 
 ## Disclaimer
 
@@ -17,6 +19,7 @@ If you wanna built more speed and profitable trading tools, contact here: [Teleg
 - I do not recommend putting money on it. Use it at your own risk.
 
 - The Raydium BUY transaction is disabled by default because it has not been tested yet. See below for enabling it.
+  
 
 ## Environment Variables Explanation
 
